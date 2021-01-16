@@ -12,11 +12,12 @@
    
 }
 #login-form{
-    margin: 20px;
+    margin: 30px;
     background-color: rgb(247, 247, 243);
     padding: 70px;
-    text-decoration: none;
+   text-align: center;
     margin: 4px 2px;
+
    
 }
 .login-body{
