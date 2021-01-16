@@ -1,0 +1,28 @@
+.center-align{
+    margin: auto;
+    width: 50%
+    }
+.nav{
+   
+}
+.container{
+    margin: auto;
+    width: 50%;
+    
+   
+}
+#login-form{
+    margin: 20px;
+    background-color: rgb(247, 247, 243);
+    padding: 70px;
+    text-decoration: none;
+    margin: 4px 2px;
+   
+}
+.login-body{
+    background-color: rgb(235, 227, 250);
+}
+#pass{
+    margin: auto;
+    width: 50%;
+}
