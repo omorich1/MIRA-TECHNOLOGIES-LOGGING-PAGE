@@ -14,11 +14,13 @@
 #login-form{
     margin: 30px;
     background-color: rgb(247, 247, 243);
-    padding: 70px;
-   text-align: center;
-    margin: 4px 2px;
-
+    padding: 40px;
+   text-align: match-parent;
    
+     
+}
+#login-btn{
+    text-align: right;
 }
 .login-body{
     background-color: rgb(235, 227, 250);
